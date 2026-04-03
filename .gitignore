@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+Previsão de Sobrevivência do Titanic/.ipynb_checkpoints
 
 # Virtual environments
 .venv
