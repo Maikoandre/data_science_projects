@@ -11,6 +11,9 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 | # | Projeto | Descrição Resumida |
 |---|---------|--------------------|
 | 1 | [🚢 Previsão de Sobrevivência do Titanic](./Previsão%20de%20Sobrevivência%20do%20Titanic/) | Modelo clássico de classificação focado em prever quais passageiros possuíam mais chances de sobrevivência. |
+| 2 | [🏥 DataSUS Analysis](./DataSUS-Analysis/) | Análise Exploratória e Dashboard Interativo com Streamlit sobre internações hospitalares (SIH) na Bahia. |
+| 3 | [⚡ Avaliação de Desempenho de Libs](./avaliacao_desempenho_libs/) | Comparação de desempenho entre Pandas, Polars, DuckDB e PySpark. |
+| 4 | [🌌 Cosmic Scribe](./cosmic_scribe/) | Sistema RAG especializado em worldbuilding e expansão de lore de universo fictício. |
 
 *(Mais projetos serão adicionados com o tempo!)*
 
