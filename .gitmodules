@@ -7,3 +7,6 @@
 [submodule "cosmic_scribe"]
 	path = cosmic_scribe
 	url = https://github.com/Maikoandre/cosmic_scribe.git
+[submodule "data_analysis_agent"]
+	path = data_analysis_agent
+	url = https://github.com/Maikoandre/data_analysis_agent

@@ -14,6 +14,7 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 | 2 | [🏥 DataSUS Analysis](https://github.com/Maikoandre/DataSUS-Analysis) | Análise Exploratória e Dashboard Interativo com Streamlit sobre internações hospitalares (SIH) na Bahia. |
 | 3 | [⚡ Avaliação de Desempenho de Libs](https://github.com/Maikoandre/avaliacao_desempenho_libs) | Comparação de desempenho entre Pandas, Polars, DuckDB e PySpark. |
 | 4 | [🌌 Cosmic Scribe](https://github.com/Maikoandre/cosmic_scribe) | Sistema RAG especializado em worldbuilding e expansão de lore de universo fictício. |
+| 5 | [🤖 Data Analysis Agent](https://github.com/Maikoandre/data_analysis_agent) | Agente autônomo que analisa datasets CSV via RAG e envia relatórios em PDF por email. |
 
 *(Mais projetos serão adicionados com o tempo!)*
 
