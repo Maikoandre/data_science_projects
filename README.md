@@ -25,8 +25,8 @@ O ambiente principal baseia-se em **Python 3.12+**.
 1. **Clone o repositório:**
    Como este repositório utiliza *Git Submodules* para referenciar os projetos, use a flag `--recurse-submodules` para clonar o repositório e baixar o conteúdo das pastas ao mesmo tempo:
    ```bash
-   git clone --recurse-submodules https://github.com/Maikoandre/Data-Science-Projects.git
-   cd Data-Science-Projects
+   git clone --recurse-submodules https://github.com/Maikoandre/data_science_projects.git
+   cd data_science_projects
    ```
    *(Se você já clonou sem a flag, basta rodar `git submodule update --init --recursive` dentro da pasta)*
 
