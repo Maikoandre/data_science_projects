@@ -1,5 +1,5 @@
-[submodule "DataSUS-Analysis"]
-	path = DataSUS-Analysis
+[submodule "datasus_analysis"]
+	path = datasus_analysis
 	url = https://github.com/Maikoandre/datasus_analysis.git
 [submodule "avaliacao_desempenho_libs"]
 	path = avaliacao_desempenho_libs
