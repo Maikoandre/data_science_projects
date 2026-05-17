@@ -1,6 +1,0 @@
-jupyter
-polars
-numpy
-matplotlib
-seaborn
-scikit-learn
