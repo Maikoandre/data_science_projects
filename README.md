@@ -11,7 +11,7 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 | # | Projeto | Descrição Resumida |
 |---|---------|--------------------|
 | 1 | [🚢 Previsão de Sobrevivência do Titanic](./Previsão%20de%20Sobrevivência%20do%20Titanic/) | Modelo clássico de classificação focado em prever quais passageiros possuíam mais chances de sobrevivência. |
-| 2 | [🏥 DataSUS Analysis](https://github.com/Maikoandre/DataSUS-Analysis) | Análise Exploratória e Dashboard Interativo com Streamlit sobre internações hospitalares (SIH) na Bahia. |
+| 2 | [🏥 DataSUS Analysis](https://github.com/Maikoandre/datasus_analysis) | Análise Exploratória e Dashboard Interativo com Streamlit sobre internações hospitalares (SIH) na Bahia. |
 | 3 | [⚡ Avaliação de Desempenho de Libs](https://github.com/Maikoandre/avaliacao_desempenho_libs) | Comparação de desempenho entre Pandas, Polars, DuckDB e PySpark. |
 | 4 | [🌌 Cosmic Scribe](https://github.com/Maikoandre/cosmic_scribe) | Sistema RAG especializado em worldbuilding e expansão de lore de universo fictício. |
 | 5 | [🤖 Data Analysis Agent](https://github.com/Maikoandre/data_analysis_agent) | Agente autônomo que analisa datasets CSV via RAG e envia relatórios em PDF por email. |
