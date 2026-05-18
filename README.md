@@ -18,7 +18,7 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 
 *(Mais projetos serão adicionados com o tempo!)*
 
-## 🚀 Como Executar Localmente
+<!-- ## 🚀 Como Executar Localmente
 
 O ambiente principal baseia-se em **Python 3.12+**. 
 
@@ -39,7 +39,7 @@ O ambiente principal baseia-se em **Python 3.12+**.
    ```
 
 3. **Gerenciamento e Dependências:**
-   Verifique na raiz do projeto (ou dentro da pasta específica de cada projeto) os requisitos específicos. A raiz inclui um `pyproject.toml` base.
+   Verifique na raiz do projeto (ou dentro da pasta específica de cada projeto) os requisitos específicos. A raiz inclui um `pyproject.toml` base. -->
 
 ---
 *Repositório em constante atualização.* 🧑‍💻📈
