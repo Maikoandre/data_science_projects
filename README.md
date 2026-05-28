@@ -14,32 +14,8 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 | 2 | [⚡ Avaliação de Desempenho de Libs](https://github.com/Maikoandre/avaliacao_desempenho_libs) | Comparação de desempenho entre Pandas, Polars, DuckDB e PySpark. |
 | 3 | [🌌 Cosmic Scribe](https://github.com/Maikoandre/cosmic_scribe) | Sistema RAG especializado em worldbuilding e expansão de lore de universo fictício. |
 | 4 | [🤖 Data Analysis Agent](https://github.com/Maikoandre/data_analysis_agent) | Agente autônomo que analisa datasets CSV via RAG e envia relatórios em PDF por email. |
-| 5 | [🌾Expansão Agrícola e Impacto Ambiental na Caatinga](https://github.com/Maikoandre/agricultural_analysis.git) | Análise sobre a expansão agrícola e impacto ambiental na Caatinga. (em andamento)|
+| 5 | [🌾Expansão Agrícola e Impacto Ambiental na Caatinga](https://github.com/Maikoandre/agricultural_analysis.git) | Análise sobre a expansão agrícola e impacto ambiental na Caatinga. (Em andamento)|
+| 6 | [📊Dashboard SAC](https://github.com/Maikoandre/dashboard_sac.git) | |
+| 7 | [📈Dashboard de Vendas](https://github.com/Maikoandre/dashboard_vendas.git) | |
 
-*(Mais projetos serão adicionados com o tempo!)*
-
-<!-- ## 🚀 Como Executar Localmente
-
-O ambiente principal baseia-se em **Python 3.12+**. 
-
-1. **Clone o repositório:**
-   Como este repositório utiliza *Git Submodules* para referenciar os projetos, use a flag `--recurse-submodules` para clonar o repositório e baixar o conteúdo das pastas ao mesmo tempo:
-   ```bash
-   git clone --recurse-submodules https://github.com/Maikoandre/data_science_projects.git
-   cd data_science_projects
-   ```
-   *(Se você já clonou sem a flag, basta rodar `git submodule update --init --recursive` dentro da pasta)*
-
-2. **Configure o ambiente virtual:**
-   Na raiz do repositório, você pode inicializar um ambiente virtual padrão Python para baixar pacotes e dependências:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # No macOS/Linux
-   # ou .venv\Scripts\activate no Windows
-   ```
-
-3. **Gerenciamento e Dependências:**
-   Verifique na raiz do projeto (ou dentro da pasta específica de cada projeto) os requisitos específicos. A raiz inclui um `pyproject.toml` base. -->
-
----
 *Repositório em constante atualização.* 🧑‍💻📈
