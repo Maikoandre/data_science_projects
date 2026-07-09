@@ -17,5 +17,6 @@ Atualmente, os projetos desenvolvidos (e em desenvolvimento) incluem:
 | 5 | [🌾Expansão Agrícola e Impacto Ambiental na Caatinga](https://github.com/Maikoandre/agricultural_analysis.git) | Análise sobre a expansão agrícola e impacto ambiental na Caatinga. (Em andamento)|
 | 6 | [📊 Dashboard SAC](https://github.com/Maikoandre/dashboard_sac.git) | Dashboard focado na análise de métricas de atendimento ao cliente, performance da equipe de suporte e perfil dos usuários. |
 | 7 | [📈 Dashboard de Vendas](https://github.com/Maikoandre/dashboard_vendas.git) | Um dashboard corporativo de inteligência de vendas. |
+| 8 | [📖 BookFlow](https://github.com/Maikoandre/bookflow) | Este projeto implementa um esquema de banco de dados para um sistema de gerenciamento de livraria.|
 
 *Repositório em constante atualização.* 🧑‍💻📈
